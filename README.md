@@ -5,14 +5,21 @@
 <h3 align="center">DonBon</h3>
 
   <p align="center">
-    Ten bot robi wszystko nawet oblodzi
+    An app created for streamers that allows viewers to trigger action on the creator's computer.
     <br />
   </p>
 </div>
 
 ## O projekcie
 
-Projekt tworzny przez 3 osoby, bez celu, planu i nadzieji na koniec.
+ <p>The web application allows real-time activation and deactivation of specific commands from the web application, where sections can be activated:</p> 
+  <ul>
+      <li> commands for points</li>
+      <li> commands for bits</li>
+      <li> commands sent in chat</li>
+  </ul>
+  <p>Streamer has the ability to automatically download tokens from twitch or spotify apps, which allows for a quick and virtually non-invasive ability to implement the bot.</p>
+  <p>In addition, a bot has been written that allows users of the stream to trigger previously enabled commands using the aforementioned methods.</p>
 
 <!-- GETTING STARTED -->
 ## Instrukcje instalacji:
