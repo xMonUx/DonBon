@@ -10,7 +10,7 @@
   </p>
 </div>
 
-## O projekcie
+## About
 
  <p>The web application allows real-time activation and deactivation of specific commands from the web application, where sections can be activated:</p> 
   <ul>
@@ -22,17 +22,8 @@
   <p>In addition, a bot has been written that allows users of the stream to trigger previously enabled commands using the aforementioned methods.</p>
 
 <!-- GETTING STARTED -->
-## Instrukcje instalacji:
 
-### Zależności i moduły
-
-This is an example of how to list things you need to use the software and how to install them.
-* pip
-  ```sh
-  pip install requests
-  ```
-
-### Instalacja
+### Installation
 
 1. Jeszcze nie ma XD
    
